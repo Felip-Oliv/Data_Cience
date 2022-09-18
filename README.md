@@ -2,7 +2,14 @@
 
 Pesquisa em Ciência de dados utilizando a linguagem Python (Biblioteca Pandas).
 
-Turma: Data Science - Quarta-feira - Universidade Positivo - Osório.
+Assunto: 
+  - Captação de dados do Covid em Curitiba após sua primeira vacinação, questionando a relação de casos de covid após a vacinação por bairro em Curitiba Versus bairros em quem se tem locais de vacinação
+
+
+Link do Repositório:
+  - https://github.com/Felip-Oliv/Data_Cience
+
+Turma: Data Science - Quarta-feira
 
 Nome dos integrantes:
   - Aramis Chang Chain - 8813440250
