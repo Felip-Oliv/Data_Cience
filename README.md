@@ -2,7 +2,7 @@
 
 Pesquisa em Ciência de dados utilizando a linguagem Python (Biblioteca Pandas).
 
-Turma: Data Science - Quarta-feira
+Turma: Data Science - Quarta-feira - Universidade Positivo - Osório.
 
 Nome dos integrantes:
   - Aramis Chang Chain - 8813440250
