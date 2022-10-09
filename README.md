@@ -1,9 +1,9 @@
 
 <h1 align="center">Data_Science</h1>
 
-:construction: Projeto em construção :construction:
 
 # Índice:
+  - :construction: Projeto em construção :construction:
   - Captação de dados de vendas de jogos em (America do norte, Europa e Japão) datado de 22/12/2016, questionando os generos mais comprados e seus respectivos consoles. E com isso localizar a relaçõa entre os generos e jogos mais comprados e jogados nos diferentes continentes.
   - Pesquisa em Ciência de dados utilizando a linguagem Python (Biblioteca Pandas).
 
