@@ -10,11 +10,11 @@
   - Pesquisa em Ciência de dados utilizando a linguagem Python (Biblioteca Pandas).
 
 
-* [Link do repositório:]
+**_ [Link do repositório:]_**
   - https://github.com/Felip-Oliv/Data_Cience
 
-* [Nome dos integrantes:]
+**_ [Nome dos integrantes:] _**
   - Luiz Felipe - 8813216082
 
- * [Link do Dataset:]
+**_  [Link do Dataset:]_**
   - https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset
