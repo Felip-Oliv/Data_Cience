@@ -3,7 +3,7 @@
 Pesquisa em Ciência de dados utilizando a linguagem Python (Biblioteca Pandas).
 
 Assunto: 
-  - Captação de dados do Covid em Curitiba após sua primeira vacinação, questionando a relação de casos de covid após a vacinação por bairro em Curitiba Versus bairros em quem se tem locais de vacinação
+  - Captação de dados de vendas de jogos em (America do norte, Europa e Japão) no ano de 2016, questionando os generos mais comprados e seus respectivos consoles. E com isso localizar a relaçõa entre os generos e jogos mais comprados e jogados nos diferentes continentes.
 
 
 Link do Repositório:
@@ -12,12 +12,10 @@ Link do Repositório:
 Turma: Data Science - Quarta-feira
 
 Nome dos integrantes:
-  - Aramis Chang Chain - 8813440250
-  - Lucas Volkmann - 8813375890
   - Luiz Felipe - 8813216082
  
 Link do Dataset:
-  - https://brasil.io/dataset/covid19/caso_full/
+  - https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset
 
 Link para o dicionário de dados:
-  - https://brasil.io/dataset/covid19/caso/
+  - https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset
