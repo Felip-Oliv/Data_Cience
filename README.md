@@ -1,7 +1,6 @@
 
 <h1 align="center">Data_Science</h1>
 <h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
 </h4>
 
 # Índice:
